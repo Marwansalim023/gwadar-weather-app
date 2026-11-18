@@ -2,7 +2,7 @@
 
 A small web app that predicts the next day's maximum temperature in Gwadar, Pakistan, using a neural network that you choose.
 
-**Live app:** add your Vercel link here
+**Live app:** https://gwadar-weather-app.vercel.app
 
 ## What it does
 
